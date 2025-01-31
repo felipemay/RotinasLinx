@@ -5,7 +5,8 @@ const urlsConfig = [
     },
     {
         caminho: "Empresa > Dados da Empresa",
-        urlPattern: "gestor_web/dados_empresa.asp"
+        urlPattern: "gestor_web/dados_empresa.asp",
+        manual: "https://link-para-o-manual.com/dados_empresa"
     },
     {
         caminho: "Empresa > Gerenciar Visões",
@@ -1895,4 +1896,693 @@ const urlsConfig = [
         caminho: "Reshop > Acessar",
         urlPattern: "faturamento/reshop/acesso_menu_integracao_reshop.asp"
     },
+    {
+        caminho: "Administrativo > Dados da Empresa",
+        urlPattern: "dados_empresa.asp"
+    },
+    {
+        caminho: "Administrativo > Usuários",
+        urlPattern: "usuarios/index_usuarios.asp"
+    },
+    {
+        caminho: "Administrativo > Parâmetros Globais",
+        urlPattern: "parametros/indice_param_globais.asp"
+    },
+    {
+        caminho: "Cadastros > Produtos ",
+        urlPattern: "suprimentos/index.html#/listagem-produtos"
+    },
+    {
+        caminho: "Cadastros > Serviços",
+        urlPattern: "webapp/acesso.asp?appRoute=CadastroServicos/ListagemServicos"
+    },
+    {
+        caminho: "Cadastros > CNAE",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=CNAE/Listagem&appPermissao=listagem_cnae_permissao"
+    },
+    {
+        caminho: "Cadastros > Pacotes",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=CadastroPacotes/ListagemPacotes&appPermissao=listagem_pacotes_permissao"
+    },
+    {
+        caminho: "Cadastros > Clientes e Fornecedores",
+        urlPattern: "crm/webapp/clientes/listagem/index.html"
+    },
+    {
+        caminho: "Cadastros > Bem-Estar > Equipamentos (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=cadastro-equipamento/cadastro-equipamentos"
+    },
+    {
+        caminho: "Cadastros > Bem-Estar > Formulários (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=/CadastroFormularios/ListagemFormularios&appPermissao=formularios_permissao"
+    },
+    {
+        caminho: "Cadastros > Bem-Estar > Espaços (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=CadastroEspaco/CadastroEspacos"
+    },
+    {
+        caminho: "Cadastros > Bem-Estar > Contratos",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=CadastroContratos/ListagemContrato&appPermissao=contratos_permissao"
+    },
+    {
+        caminho: "Cadastros > Contábil > Operações Padrões",
+        urlPattern: "financeiro/contabilidade/operacoes_contab.asp"
+    },
+    {
+        caminho: "Cadastros > Contábil > Plano de Contas",
+        urlPattern: "financeiro/contabilidade/plano_contas/listagem_plano_contas.html"
+    },
+    {
+        caminho: "Cadastros > Contábil > Históricos",
+        urlPattern: "financeiro/contabilidade/cadastro_contab_historicos.asp"
+    },
+    {
+        caminho: "Cadastros > Contábil > Centros de custo",
+        urlPattern: "financeiro/contabilidade/cad_auxiliares/cadastro_centrocusto.asp"
+    },
+    {
+        caminho: "Cadastros > Promoções > Ações Promocionais",
+        urlPattern: "produtos/cad_auxiliares/acao_promocional_list.asp"
+    },
+    {
+        caminho: "Cadastros > Promoções > Cadastro de Campanhas (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=promocoes/campanha"
+    },
+    {
+        caminho: "Cadastros > Promoções > Cadastro de Promoções (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=promocoes/promocao"
+    },
+    {
+        caminho: "Cadastros > Promoções > Cadastro de Promoções (por Referência) ",
+        urlPattern: "produtos/formulario_cadastro_promocao.asp?cadastra_promocao_por_referencia=S"
+    },
+    {
+        caminho: "Cadastros > Promoções > Desabilitar Promoções",
+        urlPattern: "produtos/desabilitar_promocao_referencia.asp"
+    },
+    {
+        caminho: "Cadastros > Promoções > Relatórios > Lista de Promoções",
+        urlPattern: "produtos/cadastro_promocao.asp"
+    },
+    {
+        caminho: "Cadastros > Promoções > Relatórios > Produtos em Promoção",
+        urlPattern: "produtos/relatorio_produtos_promocao.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Vendedores/Compradores ",
+        urlPattern: "faturamento/cadastro_vendedores/index.html"
+    },
+    {
+        caminho: "Cadastros > Operações > Planos de Pagamento",
+        urlPattern: "faturamento/cad_auxiliares/cadastro_de_plano.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > TEF: Configuração de Pagamentos",
+        urlPattern: "faturamento/configurar_pagamentos/index.html"
+    },
+    {
+        caminho: "Cadastros > Operações > Tabela de preço (Novo)",
+        urlPattern: "suprimentos/index.html#/tabelas-precos"
+    },
+    {
+        caminho: "Cadastros > Operações > Série Própria",
+        urlPattern: "faturamento/cad_auxiliares/cadastro_serie.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Série Entrada",
+        urlPattern: "produtos/cad_auxiliares/serie_entrada_cadastro.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Natureza de Operação",
+        urlPattern: "faturamento/cad_auxiliares/cadastro_cfop.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Depósito",
+        urlPattern: "produtos/cad_auxiliares/depositos_cadastro.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Config. Tributária",
+        urlPattern: "produtos/cad_auxiliares/configuracao_tributaria.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Config. Tributária (Novo)",
+        urlPattern: "fiscal/configuracao-tributaria/index.html#"
+    },
+    {
+        caminho: "Cadastros > Operações > Unidade",
+        urlPattern: "produtos/cad_auxiliares/unidade_cadastro.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > NCM/CEST > NCM",
+        urlPattern: "produtos/cad_auxiliares/cadastro_ncm.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > NCM/CEST > CEST",
+        urlPattern: "produtos/cad_auxiliares/cest/views/cest.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Tabelas de Comissão",
+        urlPattern: "faturamento/cad_auxiliares/tabelas_comissoes.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Motivo de Devolução",
+        urlPattern: "faturamento/cad_auxiliares/cadastro_motivo_devolucao.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Observações Padrões",
+        urlPattern: "faturamento/cad_auxiliares/cadastro_observacoes_padroes.asp"
+    },
+    {
+        caminho: "Cadastros > Operações > Cupons de Desconto",
+        urlPattern: "faturamento/cadastro_cupom/index.html"
+    },
+    {
+        caminho: "Cadastros > Operações > Regras por CFOP",
+        urlPattern: "fiscal/regras-cfop-operacao/listagem/listagem-regras-cfop.html"
+    },
+    {
+        caminho: "Cadastros > Operações > Registros dos Campos Adicionais",
+        urlPattern: "produtos/cad_auxiliares/registros_campos_adicionais.asp"
+    },
+    {
+        caminho: "Cadastros > CRM > Classes de Clientes",
+        urlPattern: "clientes/cad_auxiliares/classe_cadastro.asp"
+    },
+    {
+        caminho: "Cadastros > CRM > Grupos Empresariais",
+        urlPattern: "clientes/cad_auxiliares/cadastro_grupo_clientes.asp"
+    },
+    {
+        caminho: "Operações > Venda Fácil",
+        urlPattern: "faturamento/vendafacil/acesso_webapp.asp"
+    },
+    {
+        caminho: "Operações > Remessas e Retornos",
+        urlPattern: "fiscal/remessa-retorno/index.html"
+    },
+    {
+        caminho: "Operações > Entradas e Retornos",
+        urlPattern: "fiscal/entrada-retorno/index.html"
+    },
+    {
+        caminho: "Operações > Baixa de Consumo",
+        urlPattern: "produtos/baixa_consumo.asp"
+    },
+    {
+        caminho: "Operações > Devolução de Venda ",
+        urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=devolucao_venda"
+    },
+    {
+        caminho: "Operações > Entrada XML (NF-e)",
+        urlPattern: "produtos/entrada_nfe/index.html"
+    },
+    {
+        caminho: "Operações > Recebimento de Compras",
+        urlPattern: "produtos/recebimento_mercadorias/compras/index.html"
+    },
+    {
+        caminho: "Operações > Recebimento de Transferência",
+        urlPattern: "produtos/recebimento_mercadorias/transferencias/index.html"
+    },
+    {
+        caminho: "Operações > Troca Fácil",
+        urlPattern: "faturamento/vendafacil/acesso_webapptrocafacil.asp?rota=trocafacilerppos&ignoraConfiguracao=1"
+    },
+    {
+        caminho: "Operações > Devolução de Compra Fácil",
+        urlPattern: "suprimentos/estoque/devolucao-entrada/index.html"
+    },
+    {
+        caminho: "Operações > Crediário > Ficha do cliente",
+        urlPattern: "faturamento/vendafacil/acesso_webapp.asp?rota=ErpFichaClienteCrediario&ignoraConfiguracao=1"
+    },
+    {
+        caminho: "Operações > Crediário > Recebimento de parcelas",
+        urlPattern: "faturamento/vendafacil/acesso_webapp.asp?rota=ErpRecebimentoParcelasCrediario&ignoraConfiguracao=1"
+    },
+    {
+        caminho: "Operações > Crediário > Configurações",
+        urlPattern: "faturamento/crediario/index.html"
+    },
+    {
+        caminho: "Operações > Fiscal > Sintegra > Geração Arquivo",
+        urlPattern: "financeiro/carrega_gerador_arquivo.asp?tipoArquivo=Sintegra"
+    },
+    {
+        caminho: "Operações > Fiscal > Sintegra > Manutenção",
+        urlPattern: "financeiro/carrega_gerador_arquivo.asp?tipoArquivo=Sintegra"
+    },
+    {
+        caminho: "Operações > Fiscal > Cadastro de sangrias/suprimentos",
+        urlPattern: "faturamento/vendafacil/acesso_webapp.asp?rota=menufiscalerp&ignoraConfiguracao=1"
+    },
+    {
+        caminho: "Operações > Fiscal > Relatório de sangrias/suprimentos",
+        urlPattern: "webapp/acesso.asp?appRoute=/rotinasFiscais/listagem"
+    },
+    {
+        caminho: "Operações > Fiscal > Exportação Fiscal > Ressarcimento/Restituição/Complemento de ICMS-ST",
+        urlPattern: "fiscal/ressarcimento-icms-st/ressarcimento-icms-st.html"
+    },
+    {
+        caminho: "Operações > Fiscal > Exportação Fiscal > DIEF-PA",
+        urlPattern: "webapp/acesso.asp?appRoute=dief-pa"
+    },
+    {
+        caminho: "Operações > Outras Operações > Pedido de compra > Gerar Pedido (manual)",
+        urlPattern: "compras/cadastra_pedido.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Pedido de compra > Gerar Pedido (grade)",
+        urlPattern: "compras/pedido_grade_cadastro.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Pedido de compra > Gerar Pedido (automático)",
+        urlPattern: "compras/relatorio_faltas.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Pedido de compra > Aprovar Pedido",
+        urlPattern: "compras/pedido_aprovacao.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Pedido de compra > Alterar/Cancelar Pedido",
+        urlPattern: "compras/altera_pedido.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Pedido de compra > Relatório",
+        urlPattern: "compras/relatorio_pedidos.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Requisição de Compra > Nova Requisição",
+        urlPattern: "compras/produtos_requisicao.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Requisição de Compra > Conferência Requisição",
+        urlPattern: "compras/requisicao_conferencia.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Requisição de Compra > Listagem de Requisições",
+        urlPattern: "compras/requisicao_filtro.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Requisição de Compra > Cancelar/Excluir Requisição",
+        urlPattern: "compras/cancela_requisicao.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Entrada Manual",
+        urlPattern: "produtos/entrada_compras.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Entrada CT-e ",
+        urlPattern: "suprimentos/index.html#/entrada-cte/painel-entrada-cte"
+    },
+    {
+        caminho: "Operações > Outras Operações > Devolução de venda",
+        urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=devolucao_venda"
+    },
+    {
+        caminho: "Operações > Outras Operações > Devolução de compra",
+        urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=devolucao_compra"
+    },
+    {
+        caminho: "Operações > Outras Operações > Entrada de Operação em Recusa",
+        urlPattern: "fiscal/recusa-nf/recusa-nf.html"
+    },
+    {
+        caminho: "Operações > Outras Operações > Cancelar Nota de Entrada",
+        urlPattern: "produtos/entrada_compras.asp?esconde_itens=S"
+    },
+    {
+        caminho: "Operações > Outras Operações > Cancelar/Excluir Nota Fiscal Saída",
+        urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=cancelar_excluir_nota_fiscal"
+    },
+    {
+        caminho: "Operações > Outras Operações > Substitutiva de Cupom Fiscal SAT ou NFC-e",
+        urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=nota_fiscal_substitutiva_cupom_sat_nfce"
+    },
+    {
+        caminho: "Operações > Outras Operações > Transferência entre Depósitos",
+        urlPattern: "faturamento/transf/transf_depositos.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Manutenção de Produtos",
+        urlPattern: "produtos/relatorio_manut.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Gestão NF-e (XML)",
+        urlPattern: "nf_e/nfe.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Gestão NFC-e/SAT (XML) ",
+        urlPattern: "sat/sat.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Balanço (Novo)",
+        urlPattern: "suprimentos/estoque/balanco/index.html"
+    },
+    {
+        caminho: "Operações > Outras Operações > Balanço > Enviar arquivo",
+        urlPattern: "produtos/balanco/envia_balanco.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Balanço > Balanço direto",
+        urlPattern: "produtos/balanco/balanco_direto.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Balanço > Processar balanço",
+        urlPattern: "produtos/balanco/relatorio_balanco.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Balanço > Consultar balanço",
+        urlPattern: "produtos/balanco/consulta_balancos.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Balanço > Estornar balanço",
+        urlPattern: "produtos/balanco/desfazer_balanco.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Transferências > Conferência de Transferências",
+        urlPattern: "produtos/transferencia/conferencia_listagem.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Transferências > Endosso de Transferências",
+        urlPattern: "produtos/transferencia/endosso_intermediaria.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Tipos de Registro Profissional",
+        urlPattern: "crm/cadastro_auxiliar/tipo_registro_profissional/index.html"
+    },
+    {
+        caminho: "Operações > Outras Operações > Lançar Comissão Manual",
+        urlPattern: "faturamento/comissoes/adicionar_comissao.asp?operacao=I"
+    },
+    {
+        caminho: "Operações > Outras Operações > Metas > Cadastro de Metas",
+        urlPattern: "faturamento/metas/cadastros/cadastro_metas.html"
+    },
+    {
+        caminho: "Operações > Outras Operações > Metas > Configuração de Metas",
+        urlPattern: "faturamento/metas/configuracao/configuracao_metas.asp"
+    },
+    {
+        caminho: "Operações > Outras Operações > Metas > Relatórios > Relatório de Metas de Vendas",
+        urlPattern: "faturamento/metas/relatorios/relatorio_metas_vendas.asp"
+    },
+    {
+        caminho: "Integração > Hub Marketplaces > Configurações (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=hubMarketplace/configuracoes&appPermissao=hubIntegracao_configuracoes_permissao"
+    },
+    {
+        caminho: "Integração > Hub Marketplaces > Plugg.To (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=/hubMarketplace/acessarPluggto&appPermissao=hubIntegracao_acessarPluggto_permissao"
+    },
+    {
+        caminho: "Integração > Manutenção de produtos B2C",
+        urlPattern: "webapp/acesso.asp?appRoute=produtos/manutencao-produtos-b2c"
+    },
+    {
+        caminho: "Contábil > Livro Razão",
+        urlPattern: "financeiro/contabilidade/relatorios/livro_razao/index.html"
+    },
+    {
+        caminho: "Contábil > DRE - Demonstração do Resultado do Exercício",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=dre/relatorio&appPermissao=dre_permissao"
+    },
+    {
+        caminho: "Contábil > Balanço Patrimonial",
+        urlPattern: "financeiro/contabilidade/relatorios/balanco_patrimonial/index.html"
+    },
+    {
+        caminho: "Contábil > Balancete",
+        urlPattern: "financeiro/contabilidade/relatorios/balancete/index.html"
+    },
+    {
+        caminho: "Contábil > Zeramento",
+        urlPattern: "financeiro/contabilidade/zeramento_contabil/index.html"
+    },
+    {
+        caminho: "Contábil > Previsão de Despesas Fixas > Cadastro de Previsão de despesas",
+        urlPattern: "financeiro/previsoes/previsoes_cadastro.asp"
+    },
+    {
+        caminho: "Contábil > Previsão de Despesas Fixas > Efetivação de Previsão de despesas",
+        urlPattern: "financeiro/previsoes/previsoes_cadastro_efetivar.asp"
+    },
+    {
+        caminho: "Financeiro > Pagamentos > Lançar Pagamento",
+        urlPattern: "financeiro/lancamento_receber_pagar.asp?mais_contas_debitos=S"
+    },
+    {
+        caminho: "Financeiro > Pagamentos > Alterar/Excluir Pagamento",
+        urlPattern: "financeiro/altera_faturas.asp?mais_contas_debitos=S"
+    },
+    {
+        caminho: "Financeiro > Pagamentos > Baixar Pagamento",
+        urlPattern: "financeiro/baixa_faturas.asp?ParametroParaFavoritos=pagar"
+    },
+    {
+        caminho: "Financeiro > Pagamentos > Estornar Pagamento",
+        urlPattern: "financeiro/extorno_faturas.asp?tipo_lanc=pagar"
+    },
+    {
+        caminho: "Financeiro > Pagamentos > Importar Faturas ",
+        urlPattern: "financeiro/importacao_de_faturas_novo/index.html#/importacao-faturas/2"
+    },
+    {
+        caminho: "Financeiro > Recebimentos > Lançar Faturas",
+        urlPattern: "financeiro/lancamento_receber_pagar.asp?tipolanc=receber"
+    },
+    {
+        caminho: "Financeiro > Recebimentos > Alterar/Excluir Faturas",
+        urlPattern: "financeiro/altera_faturas.asp?tipolanc=receber"
+    },
+    {
+        caminho: "Financeiro > Recebimentos > Baixar Faturas",
+        urlPattern: "financeiro/baixa_faturas.asp?tipolanc=receber"
+    },
+    {
+        caminho: "Financeiro > Recebimentos > Boletos Stone (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=openbanking/boletos&appPermissao=open_banking_permissao_boletos"
+    },
+    {
+        caminho: "Financeiro > Recebimentos > Estornar Faturas",
+        urlPattern: "financeiro/extorno_faturas.asp?tipolanc=receber"
+    },
+    {
+        caminho: "Financeiro > Recebimentos > Importar Faturas ",
+        urlPattern: "financeiro/importacao_de_faturas_novo/index.html#/importacao-faturas/1"
+    },
+    {
+        caminho: "Financeiro > Caixa > Fechar",
+        urlPattern: "vendas/caixa/fechamento_caixa.asp"
+    },
+    {
+        caminho: "Financeiro > Caixa > Conferir",
+        urlPattern: "faturamento/relatorio_conferencia_caixa.asp"
+    },
+    {
+        caminho: "Financeiro > Caixa > Listar",
+        urlPattern: "faturamento/relatorio_fechamento_caixa.asp"
+    },
+    {
+        caminho: "Financeiro > Fluxo de Caixa",
+        urlPattern: "financeiro/tesouraria/fluxo_caixa/index.html"
+    },
+    {
+        caminho: "Financeiro > Conciliador Bancário",
+        urlPattern: "financeiro/tesouraria/conciliador_bancario/selecao_contas/index.html"
+    },
+    {
+        caminho: "Financeiro > Transferência entre Contas",
+        urlPattern: "financeiro/tesouraria/transferencias_entre_contas/transferencia_entre_contas.asp"
+    },
+    {
+        caminho: "Financeiro > Gestão Financeira (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=/gestao-financeira/calendario&appPermissao=gestao_financeira_permissao"
+    },
+    {
+        caminho: "Conta Digital (Stone Banking) > Iniciar Conta Digital",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=openbanking&appPermissao=open_banking_permissao"
+    },
+    {
+        caminho: "Relatórios > Gerador de Relatórios",
+        urlPattern: "gerador_de_relatorios/fonte_de_dados/index.html"
+    },
+    {
+        caminho: "Relatórios > CRM > Relatório Cliente/Fornecedor",
+        urlPattern: "clientes/relatorio_de_clientes.asp"
+    },
+    {
+        caminho: "Relatórios > Bem-Estar > Saldo de Serviços (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=RelatorioSaldoServicos"
+    },
+    {
+        caminho: "Relatórios > Bem-Estar > Equipamentos  (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=cadastro-equipamento/cadastro-equipamentos"
+    },
+    {
+        caminho: "Relatórios > Bem-Estar > Agendamentos (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=relatorioAgendamentos"
+    },
+    {
+        caminho: "Relatórios > Bem-Estar > Logs de Serviços (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=relatorioLog"
+    },
+    {
+        caminho: "Relatórios > Bem-Estar > Serviços Vendidos (Novo)",
+        urlPattern: "webapp/acesso.asp?appRoute=/relatorioServicosVendidos"
+    },
+    {
+        caminho: "Relatórios > Troca Fácil > Relatório de Vale Troca",
+        urlPattern: "faturamento/troca_unificada/relatorio_vale_trocas/index.html"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Faturamento Diário",
+        urlPattern: "faturamento/relat_fat_diario.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Movimento Diário",
+        urlPattern: "faturamento/relatorio_diario.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Relatório de Vendas/Motivos Desconto (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=relatorios/motivo-desconto&appPermissao=motivos_desconto_permissao"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Faturamento Vendedor",
+        urlPattern: "faturamento/relatorio_fat_vendedor.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Produtos/Serv.Vendidos",
+        urlPattern: "faturamento/relatorio_prod_vendidos.asp?ajusteMenu=S"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Ranking de Clientes",
+        urlPattern: "faturamento/relatorio_ranking.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Ranking por Produtos",
+        urlPattern: "faturamento/relatorio_ranking_produtos.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Vendas por Lojas",
+        urlPattern: "faturamento/relatorio_vendas_lojas.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Relatório de Comissões",
+        urlPattern: "faturamento/comissoes/relat_comissoes.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Vendas > Relatório de Metas de Vendas",
+        urlPattern: "faturamento/metas/relatorios/relatorio_metas_vendas.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Notas de Compra",
+        urlPattern: "produtos/relatorio_notas.asp?modulo=estoque"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Lista de Preços",
+        urlPattern: "produtos/relatorio_lista_precos.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Registro de Inventário",
+        urlPattern: "produtos/relatorio_inventario_new.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Histórico Movimento",
+        urlPattern: "produtos/relatorio_movimento_produto.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Produtos Cadastrados",
+        urlPattern: "produtos/relatorio_produtos.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Compras/Vendas e Saldo por Empresa",
+        urlPattern: "produtos/relatorio_compra_venda_saldo_empresa.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Relatório de Giro Médio",
+        urlPattern: "compras/relat_curva_abc_giro_medio.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Relatório de Cobertura",
+        urlPattern: "compras/relat_curva_abc_cobertura_novo.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Saldo em estoque por Grade",
+        urlPattern: "produtos/relatorio_prod_estoque.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Relatório de Consulta de Lotes",
+        urlPattern: "produtos/relatorio_lotes.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Saldo em Estoque",
+        urlPattern: "produtos/relatorio_saldos.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Saldo por Empresa",
+        urlPattern: "produtos/relatorio_saldo_por_empresa.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Curva ABC",
+        urlPattern: "compras/relatorio_abc.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Recebimento de Mercadorias",
+        urlPattern: "produtos/recebimento_mercadorias/relatorio/index.html?limparCache=1"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Etiquetas Codebar",
+        urlPattern: "produtos/etiquetas_por_item.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Transferência entre Depósitos",
+        urlPattern: "produtos/relatorio_transferencia_depositos.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão de Estoque > Detalhamento de Custos",
+        urlPattern: "produtos/relatorio_custo_por_nota.asp"
+    },
+    {
+        caminho: "Relatórios > Gestão Financeira > Recebimentos > Relatório de Pré-Venda",
+        urlPattern: "webapp/acesso.asp?appRoute=relatorios/pre-venda"
+    },
+    {
+        caminho: "Relatórios > Gestão Financeira > Recebimentos > Faturas a Receber",
+        urlPattern: "financeiro/relatorio_faturas_periodo.asp?tipolanc=receber&filtro_adm_cartao=S&lancamento=S"
+    },
+    {
+        caminho: "Relatórios > Gestão Financeira > Recebimentos > Faturas Recebidas",
+        urlPattern: "financeiro/relatorio_faturas_periodo_recebidas.asp?tipolanc=receber&filtro_adm_cartao=S&lancamento=S"
+    },
+    {
+        caminho: "Relatórios > Gestão Financeira > Pagamentos > Faturas a Pagar",
+        urlPattern: "financeiro/relatorio_faturas_periodo.asp?ParametroParaFavoritos=pagar"
+    },
+    {
+        caminho: "Relatórios > Gestão Financeira > Pagamentos > Faturas Pagas",
+        urlPattern: "financeiro/relatorio_faturas_periodo_recebidas.asp?ParametroParaFavoritos=pagar"
+    },
+    {
+        caminho: "Relatórios > Gestão Financeira > Tesouraria > Conta corrente",
+        urlPattern: "financeiro/tesouraria/relatorio_conta_corrente.asp"
+    },
+    {
+        caminho: "Report Viewer > Iniciar Report Viewer",
+        urlPattern: "abrir_sessao_aspx.asp?target=_blank&url=https%3A%2F%2Freportviewer%2Drc%2Emicrovix%2Ecom%2Ebr%2Fviews%2Flogin%2Easpx"
+    },
+    {
+        caminho: "Adicionais > Scarf",
+        urlPattern: "framework/scarf/sobre.asp"
+    },
+    {
+        caminho: "Bem-Estar > Agenda  (Novo)",
+        urlPattern: "servicos/agenda/index.asp"
+    },
+    {
+        caminho: "Bem-Estar > Agendamento Online (Novo)",
+        urlPattern: "webapp/acesso_permissao.asp?appRoute=configuracaoAgendamentoOnline&appPermissao=agendaonline_permissao"
+    }
+    
 ];

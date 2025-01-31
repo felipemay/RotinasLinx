@@ -1,15 +1,47 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt">
 <head>
-  <title>Captura Caminho</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Captura de Caminho</title>
   <style>
-    body { font-family: Arial, sans-serif; width: 200px; padding: 10px; }
-    button { width: 100%; padding: 8px; margin-top: 5px; cursor: pointer; }
+    body { 
+      font-family: Arial, sans-serif; 
+      width: 280px; 
+      padding: 15px; 
+      background-color: #f9f9f9; 
+      text-align: center;
+    }
+    h3 { 
+      font-size: 16px; 
+      color: #333; 
+      margin-bottom: 10px; 
+    }
+    .opcao-btn { 
+      display: block;
+      width: 100%; 
+      padding: 10px; 
+      margin: 5px 0;
+      font-size: 14px;
+      color: white;
+      background-color: #007BFF; 
+      border: none; 
+      border-radius: 5px; 
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    .opcao-btn:hover { background-color: #0056b3; }
+    .mensagem { 
+      font-size: 12px; 
+      color: #666; 
+      margin-top: 10px; 
+    }
   </style>
 </head>
 <body>
   <h3>Escolha um caminho:</h3>
   <div id="opcoes"></div>
+  <p class="mensagem">Clique para copiar o caminho desejado</p>
   <script src="popup.js"></script>
 </body>
 </html>
