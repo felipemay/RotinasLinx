@@ -262,87 +262,87 @@ const urlsConfig = [
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Lançamento de Faturas",
             urlPattern: "financeiro/lancamento_receber_pagar.asp?tipolanc=receber",
-            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=478727189"
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828616"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Lançamento de Faturas via CMC7",
             urlPattern: "financeiro/lancamento_receber_via_cmc7.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828612"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Alteração/Exclusão de Faturas",
             urlPattern: "financeiro/altera_faturas.asp?tipolanc=receber",
-            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Alterar+Faturas+-+A+Receber"
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828586"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Alteração de Portador/Status em Lote",
             urlPattern: "financeiro/altera_status_lote.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828579"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Atribuir Carteira de Cobrança em Lote",
             urlPattern: "financeiro/atribuir_carteira_de_cobranca_lote/index.html?tipo=1",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=181006499"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Baixa de Faturas",
             urlPattern: "financeiro/baixa_faturas.asp?tipolanc=receber",
-            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Baixar+Faturas+-+A+Receber"
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828509"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Baixa de Faturas via CMC7",
             urlPattern: "financeiro/baixa_faturas_cmc7.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828504"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Boletos Conta Digital (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=openbanking/boletos&appPermissao=open_banking_permissao_boletos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=330424546"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Estorno de Faturas",
             urlPattern: "financeiro/extorno_faturas.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828496"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Importação de Faturas (Novo)",
             urlPattern: "financeiro/importacao_de_faturas_novo/index.html#/importacao-faturas/1",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=231472687"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Importação de Faturas",
             urlPattern: "financeiro/importacao_de_faturas/importacao_de_faturas.asp?tipo=2",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=198092425"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Notificações Automáticas (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=notificacoes/home&appPermissao=notificacao_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=412255646"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Cobrança Eletrônica > Configurar",
             urlPattern: "gestor_web/financeiro/cnab_400/cadastro/cobranca_bancaria.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Configurar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Cobrança Eletrônica > Gerar Arquivo de Remessa",
             urlPattern: "financeiro/cnab_400/remessa_cnab_400.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828448"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Cobrança Eletrônica > Processar Arquivo de Retorno",
             urlPattern: "financeiro/cnab_400/retorno/retorno_cnab_400.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Processar+Arquivo+de+Retorno+-+Contas+a+Receber"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Cobrança Eletrônica > Relatórios > Relatório de Faturas",
             urlPattern: "financeiro/cnab_400/relatorios/relatorio_faturas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828436"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Cobrança Eletrônica > Relatórios > Relatório de Lotes",
             urlPattern: "financeiro/cnab_400/relatorios/relatorio_lotes.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828426"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Cheques em Custódia > Gerar Arquivo de Remessa",
@@ -357,147 +357,147 @@ const urlsConfig = [
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Desconto de Faturas > Desconto",
             urlPattern: "financeiro/desconto_faturas.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Desconto"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Desconto de Faturas > Baixa/Estorno",
             urlPattern: "financeiro/baixa_desconto_faturas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Baixa+e+Estorno"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Agrupamento de Faturas > Agrupar Faturas",
             urlPattern: "financeiro/agrupamento_fatura.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Agrupamento+de+Faturas"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Agrupamento de Faturas > Listagem Faturas Agrupadas",
             urlPattern: "financeiro/relatorio_fat_agrup.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Agrupamento+de+Faturas?scrollTo=168828394#:~:text=Para%20realizar%20a%20confer%C3%AAncia%20do%20agrupamento%2C%20o%20usu%C3%A1rio%20poder%C3%A1%20acessar%20a%20Listagem%20de%20Faturas%20Agrupadas.%20Nela%20h%C3%A1%20filtros%20por%20data%20de%20vencimento%2C%20cliente%20e%20empresa."
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Extrato de Clientes",
             urlPattern: "financeiro/relatorio_extrato.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Extrato+de+Clientes"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Análise de crédito",
             urlPattern: "financeiro/relatorio_analise_credito.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828326"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Faturas a Receber",
             urlPattern: "financeiro/relatorio_faturas_periodo.asp?tipolanc=receber&filtro_adm_cartao=S&lancamento=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturas+a+Receber"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Faturas Recebidas",
             urlPattern: "financeiro/relatorio_faturas_periodo_recebidas.asp?tipolanc=receber&filtro_adm_cartao=S&lancamento=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturas+Recebidas"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Faturas Lançadas",
             urlPattern: "financeiro/relatorio_faturas_lancadas.asp?tipolanc=receber&filtro_adm_cartao=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828244"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Aviso de Vencimento",
             urlPattern: "financeiro/relatorio_aviso_venc.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Aviso+de+Vencimento"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Previsão de Fluxo Caixa",
             urlPattern: "financeiro/tesouraria/relatorio_fluxo_caixa.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828229"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Faturas Excluídas",
             urlPattern: "financeiro/relatorio_faturas_excluidas.asp?tipolanc=receber&filtro_adm_cartao=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828219"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Resumo a Receber",
             urlPattern: "financeiro/relatorio_resumo_receber.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Resumo+a+Receber"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Status por período",
             urlPattern: "financeiro/relatorio_status.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828205"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Carta de Anuência",
             urlPattern: "financeiro/carta_anuencia_relatorio.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828199"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Inadimplência Anual",
             urlPattern: "financeiro/relatorio_inadimplencia_anual.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828195"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Impressão Carnê Lote",
             urlPattern: "financeiro/impressao_carne_lote.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828193"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Cheques de Terceiros",
             urlPattern: "financeiro/relat_cheque_terceiro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cheques+de+Terceiros"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Relatório para Cobrança",
             urlPattern: "financeiro/relatorio_cobranca.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828169"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Histórico de Cheques",
             urlPattern: "financeiro/historico_cheques.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828163"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Impressão Formulário",
             urlPattern: "financeiro/impressao_formulario.asp?tipolanc=receber",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828142"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Faturas do Contas a Receber",
             urlPattern: "financeiro/relatorio_faturas.asp?tipolanc=receber&filtro_adm_cartao=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturas+do+Contas+a+Receber"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Receber > Relatórios > Contas a Receber por Plano de Pagamento",
             urlPattern: "financeiro/relatorios/plano_pagamento/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Contas+a+Receber+por+Plano+de+Pagamento"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Lançamento de Faturas",
             urlPattern: "financeiro/lancamento_receber_pagar.asp?mais_contas_debitos=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828085"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Alteração / Exclusão Faturas",
             urlPattern: "financeiro/altera_faturas.asp?mais_contas_debitos=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828041"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Alteração de Portador/Status em Lote",
             urlPattern: "financeiro/altera_status_lote.asp?tipolanc=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168828029"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Atribuir Carteira de Cobrança em Lote",
             urlPattern: "financeiro/atribuir_carteira_de_cobranca_lote/index.html?tipo=2",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=181006519"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Baixa de Faturas",
             urlPattern: "financeiro/baixa_faturas.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Baixa+de+Faturas+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Estorno de Faturas",
             urlPattern: "financeiro/extorno_faturas.asp?tipo_lanc=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Estorno+de+Faturas+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Importação de Faturas (Novo)",
@@ -507,172 +507,172 @@ const urlsConfig = [
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Importação de Faturas",
             urlPattern: "financeiro/importacao_de_faturas/importacao_de_faturas.asp?tipo=1",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=198092425"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Agrupamento de Faturas > Agrupar Faturas",
             urlPattern: "financeiro/agrupamento_fatura.asp?tipolanc=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Agrupar+Faturas+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Agrupamento de Faturas > Listagem Faturas Agrupadas",
             urlPattern: "financeiro/relatorio_fat_agrup.asp?tipolanc=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Listagem+Faturas+Agrupadas+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Pagamento Escritural > Configurar",
             urlPattern: "financeiro/cnab_400/cadastro/cobranca_bancaria.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Configurar+-+Pagamento+Escritural"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Pagamento Escritural > Gerar Arquivo Remessa",
             urlPattern: "financeiro/cnab_240/remessa_pagamentos_cnab240.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Gerar+Arquivo+Remessa+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Pagamento Escritural > Processar Arquivo de Retorno",
             urlPattern: "financeiro/cnab_240/retorno_pagamentos_cnab240.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Processar+Arquivo+de+Retorno+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Integração Arredondar",
             urlPattern: "financeiro/relat_integracao_arredondar.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827821"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Extrato de Fornecedor",
             urlPattern: "financeiro/relatorio_extrato.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Extrato+de+Fornecedor+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Faturas a Pagar",
             urlPattern: "financeiro/relatorio_faturas_periodo.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturas+a+Pagar+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Faturas Pagas",
             urlPattern: "financeiro/relatorio_faturas_periodo_recebidas.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturas+Pagas+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Faturas Lançadas",
             urlPattern: "financeiro/relatorio_faturas_lancadas.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827712"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Faturas Excluídas",
             urlPattern: "financeiro/relatorio_faturas_excluidas.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827702"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Resumo a Pagar",
             urlPattern: "financeiro/relatorio_resumo_receber.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Resumo+a+Pagar+-+Contas+a+Pagar"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Previsão de Fluxo Caixa",
             urlPattern: "financeiro/tesouraria/relatorio_fluxo_caixa.asp?ParametroParaFavoritos=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827676"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Faturas do Contas a Pagar",
             urlPattern: "financeiro/relatorio_faturas.asp?tipolanc=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827664"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Impressão Formulário",
             urlPattern: "financeiro/impressao_formulario.asp?tipolanc=pagar",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827656"
         },
         {
             caminho: "Adm. / Financeiro > Contas a Pagar > Relatórios > Contas a Pagar por Fornecedor",
             urlPattern: "financeiro/relatorios/contas_pagar_fornecedor/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827647"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Lançamento reduzido",
             urlPattern: "financeiro/tesouraria/lancamento_reduzido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827635"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Conciliador Bancário",
             urlPattern: "financeiro/tesouraria/conciliador_bancario/selecao_contas/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827425"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Transferência entre Contas",
             urlPattern: "financeiro/tesouraria/transferencias_entre_contas/transferencia_entre_contas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827333"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Previsão de despesas > Cadastro de Previsão de despesas",
             urlPattern: "financeiro/previsoes/previsoes_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827417"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Previsão de despesas > Efetivação de Previsão de despesas",
             urlPattern: "financeiro/previsoes/previsoes_cadastro_efetivar.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827413"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > Conta corrente",
             urlPattern: "financeiro/tesouraria/relatorio_conta_corrente.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Conta+Corrente"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > Previsão de fluxo de caixa",
             urlPattern: "financeiro/tesouraria/relatorio_fluxo_caixa.asp?tipolanc=tesouraria",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827319"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > Fluxo de Caixa",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=/gestao-financeira/fluxo-caixa&appPermissao=gestao_financeira_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827213"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > DRO - Demonstrativo de Resultados Operacional",
             urlPattern: "financeiro/relatorios/dro/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=267598337"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > Resultado por Centro de Custo (Regime Caixa)",
             urlPattern: "financeiro/tesouraria/relatorio_resultado_cc_filtro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827184"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > Entradas e Saídas por Categorias Financeiras",
             urlPattern: "financeiro/categorias_financeiras/relatorio/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827159"
         },
         {
             caminho: "Adm. / Financeiro > Tesouraria > Relatórios > Programação de Recebimento X Pagamento",
             urlPattern: "financeiro/tesouraria/relatorios/programacao_recebimento_pagamento/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827147"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Lançamentos",
             urlPattern: "financeiro/contabilidade/lancamento_contab.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827115"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Lançamento Composto",
             urlPattern: "financeiro/contabilidade/lancamento_contab_composto.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827108"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > EDI Contábil > Layouts de Arquivo",
             urlPattern: "financeiro/contabilidade/layouts_importacao_contabil.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Layouts+de+Arquivo"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > EDI Contábil > Importação Contábil",
             urlPattern: "financeiro/contabilidade/importacao_contabil.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827088"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Exportação Contábil > Exportar dados - Padrão BMA",
             urlPattern: "financeiro/contabilidade/exportacao_contabil/expcont_inicio.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827078"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Exportação Contábil > Exportar Dados ? SAP",
@@ -682,52 +682,52 @@ const urlsConfig = [
         {
             caminho: "Adm. / Financeiro > Contabilidade > Zeramento",
             urlPattern: "financeiro/contabilidade/zeramento_contabil/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Zeramento"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Balancete",
             urlPattern: "financeiro/contabilidade/relatorios/balancete/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Balancete"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Balanço Patrimonial",
             urlPattern: "financeiro/contabilidade/relatorios/balanco_patrimonial/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168827004"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Demonstrativo de Acompanhamento Mensal",
             urlPattern: "financeiro/contabilidade/relat_acomp_mensal.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Demonstrativo+de+Acompanhamento+Mensal"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > DRE - Demonstração do Resultado do Exercício",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=dre/relatorio&appPermissao=dre_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826982"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Demonstração do Valor Adicionado",
             urlPattern: "financeiro/contabilidade/relat_dva.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826971"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Livro Caixa",
             urlPattern: "financeiro/contabilidade/relat_razao.asp?livro_caixa=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Livro+Caixa"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Livro Diário",
             urlPattern: "financeiro/livros_fiscais.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826956"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Livro Razão",
             urlPattern: "financeiro/contabilidade/relatorios/livro_razao/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826928"
         },
         {
             caminho: "Adm. / Financeiro > Contabilidade > Relatórios > Fluxo de Caixa - Gerencial",
             urlPattern: "financeiro/contabilidade/relatorios/fluxo_caixa_gerencial/relatorio_fluxo_caixa_gerencial_filtros.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826908"
         },
         {
             caminho: "Adm. / Financeiro > Fiscal > Fechamento (Super Simples) > Fechamento Mensal",
@@ -765,9 +765,9 @@ const urlsConfig = [
             manual: ""
         },
         {
-            caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Grupo",
+            caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Setor",
             urlPattern: "suprimentos/index.html#/setores",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Setor"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Linha",
