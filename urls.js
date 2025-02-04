@@ -772,122 +772,122 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Linha",
             urlPattern: "suprimentos/index.html#/linhas",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Linha"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Marca",
             urlPattern: "suprimentos/index.html#/marcas",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Marca"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Coleção",
             urlPattern: "suprimentos/index.html#/colecoes",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826690"
         },
         {
-            caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Artigo",
+            caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Espessura",
             urlPattern: "suprimentos/index.html#/espessuras",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Espessura"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Unidade",
             urlPattern: "produtos/cad_auxiliares/unidade_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Unidade"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Tamanho",
             urlPattern: "suprimentos/index.html#/tamanhos",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Tamanho"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Classe de Tamanho",
             urlPattern: "produtos/cad_auxiliares/tamanho_classe_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Classe+de+Tamanho"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Cores",
             urlPattern: "suprimentos/index.html#/cores",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cor"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Classificação",
             urlPattern: "suprimentos/index.html#/classificacoes",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826652"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Config. Tributária",
             urlPattern: "produtos/cad_auxiliares/configuracao_tributaria.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826512"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Config. Tributária (Novo)",
             urlPattern: "fiscal/configuracao-tributaria/index.html#",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=219734386"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Regras por CFOP",
             urlPattern: "fiscal/regras-cfop-operacao/listagem/listagem-regras-cfop.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Regras+por+CFOP"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Depósito",
             urlPattern: "produtos/cad_auxiliares/depositos_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826508"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Série Entrada",
             urlPattern: "produtos/cad_auxiliares/serie_entrada_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826037"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Tabela de preço",
             urlPattern: "produtos/cad_auxiliares/tabela_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826022"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Tabela de preço (Novo)",
             urlPattern: "suprimentos/index.html#/tabelas-precos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=309736680"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Registros dos Campos Adicionais",
             urlPattern: "produtos/cad_auxiliares/registros_campos_adicionais.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Registros+dos+Campos+Adicionais"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Flags/Tags/Palavras-Chave",
             urlPattern: "suprimentos/index.html#/flags",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=223396890"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > NCM/CEST > NCM",
             urlPattern: "produtos/cad_auxiliares/cadastro_ncm.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168825994"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > NCM/CEST > CEST",
             urlPattern: "produtos/cad_auxiliares/cest/views/cest.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168825984"
         },
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Fundo de Combate à Pobreza",
             urlPattern: "produtos/cad_auxiliares/cadastro_icms_fcp.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168825976"
         },
         {
             caminho: "Suprimentos > Estoque > Produtos (Novo)",
             urlPattern: "suprimentos/index.html#/listagem-produtos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=188822414"
         },
         {
             caminho: "Suprimentos > Estoque > Opções dos Produtos ",
             urlPattern: "suprimentos/index.html#/opcoes-produtos",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Editar+-+Cadastro+de+Produtos"
         },
         {
             caminho: "Suprimentos > Estoque > Importação de Produtos ",
             urlPattern: "suprimentos/estoque/importacao/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=429444494"
         },
         {
             caminho: "Suprimentos > Estoque > Pesquisa de produtos por grade",
@@ -897,57 +897,57 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Entrada XML (NF-e) ",
             urlPattern: "produtos/entrada_nfe/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=413306470"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada de Compras > Entrada Manual",
             urlPattern: "produtos/entrada_compras.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Entrada+Manual"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada de Compras > Entrada via Código Barras",
             urlPattern: "produtos/entrada_compras_codebar.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823998"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada de Compras > Entrada de Lote de Pedidos",
             urlPattern: "produtos/entrada_compras_lote.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Entrada+de+Lote+de+Pedidos"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada de Compras > Entrada XML (NF-e) ",
             urlPattern: "produtos/entrada_nfe/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823825"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada de Compras > Entrada de Operação em Recusa",
             urlPattern: "fiscal/recusa-nf/recusa-nf.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823949"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada de Compras > Cancelar Nota de Entrada",
             urlPattern: "produtos/entrada_compras.asp?esconde_itens=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cancelar+Nota+de+Entrada"
         },
         {
             caminho: "Suprimentos > Estoque > Devolução de Compra Fácil (Novo)",
             urlPattern: "suprimentos/estoque/devolucao-entrada/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=217199588"
         },
         {
             caminho: "Suprimentos > Estoque > Recebimento de Mercadorias > Recebimento de Compras",
             urlPattern: "produtos/recebimento_mercadorias/compras/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Recebimento+de+Compras"
         },
         {
             caminho: "Suprimentos > Estoque > Recebimento de Mercadorias > Recebimento de Transferência",
             urlPattern: "produtos/recebimento_mercadorias/transferencias/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823711"
         },
         {
             caminho: "Suprimentos > Estoque > Transferência entre Depósitos",
             urlPattern: "faturamento/transf/transf_depositos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823675"
         },
         {
             caminho: "Suprimentos > Estoque > Remanejamento entre Unidades",
@@ -957,37 +957,37 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Balanço (Novo)",
             urlPattern: "suprimentos/estoque/balanco/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=220969249"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Enviar arquivo",
             urlPattern: "produtos/balanco/envia_balanco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=223403032"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Balanço direto",
             urlPattern: "produtos/balanco/balanco_direto.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823598"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Processar balanço",
             urlPattern: "produtos/balanco/relatorio_balanco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823541"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Consultar balanço",
             urlPattern: "produtos/balanco/consulta_balancos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823586"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Estornar balanço",
             urlPattern: "produtos/balanco/desfazer_balanco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=223403113"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Gerar arquivo TXT",
             urlPattern: "produtos/balanco/gera_txt.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Gerar+arquivo+TXT"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço > Analisar erros em Cód. Barras",
@@ -997,17 +997,17 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Balanço de Controle > Cadastrar Balanço",
             urlPattern: "produtos/balanco/balanco_serial/cadastro_balanco_produtos_controle.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822684"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço de Controle > Processar Balanço",
             urlPattern: "produtos/balanco/balanco_serial/processar_balanco_produtos_controle.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822696"
         },
         {
             caminho: "Suprimentos > Estoque > Balanço de Controle > Estornar Balanço",
             urlPattern: "produtos/balanco/balanco_serial/estorno_balanco_produtos_controle.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822694"
         },
         {
             caminho: "Suprimentos > Estoque > Desmembramento > Associação produtos desmembramento",
@@ -1022,37 +1022,37 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Promoções > Cadastro de Campanhas",
             urlPattern: "produtos/cadastro_campanha.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cadastro+de+Campanhas"
         },
         {
             caminho: "Suprimentos > Estoque > Promoções > Cadastro de Campanhas (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=promocoes/campanha",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=464772644"
         },
         {
             caminho: "Suprimentos > Estoque > Promoções > Cadastro de Promoções",
             urlPattern: "produtos/formulario_cadastro_promocao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823467"
         },
         {
             caminho: "Suprimentos > Estoque > Promoções > Cadastro de Promoções (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=promocoes/promocao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=464772644"
         },
         {
             caminho: "Suprimentos > Estoque > Promoções > Desabilitar Promoções",
             urlPattern: "produtos/desabilitar_promocao_referencia.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823463"
         },
         {
             caminho: "Suprimentos > Estoque > Promoções > Relatórios > Lista de Promoções",
             urlPattern: "produtos/cadastro_promocao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823460"
         },
         {
             caminho: "Suprimentos > Estoque > Promoções > Relatórios > Produtos em Promoção",
             urlPattern: "produtos/relatorio_produtos_promocao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823457"
         },
         {
             caminho: "Suprimentos > Estoque > Transferências > Conferência",
