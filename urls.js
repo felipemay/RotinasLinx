@@ -1067,47 +1067,47 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > FCI - Ficha de Conteúdo de Importação > Cadastro de FCI",
             urlPattern: "produtos/ficha_conteudo_importacao/cadastro/ficha_conteudo_importacao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cadastro+-+FCI"
         },
         {
             caminho: "Suprimentos > Estoque > FCI - Ficha de Conteúdo de Importação > Geração Arquivo - FCI",
             urlPattern: "produtos/ficha_conteudo_importacao/exportacao/exportar.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Gerar+Arquivo"
         },
         {
             caminho: "Suprimentos > Estoque > EDI - Intercâmbio Eletrônico de Dados > Iniciar EDI",
             urlPattern: "edi/gerenciador.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Iniciar+EDI"
         },
         {
             caminho: "Suprimentos > Estoque > Entrada CT-e ",
             urlPattern: "suprimentos/index.html#/entrada-cte/painel-entrada-cte",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=428084639"
         },
         {
             caminho: "Suprimentos > Estoque > Conhecimento de Frete",
             urlPattern: "produtos/conhecimento_frete.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Conhecimento+de+Frete"
         },
         {
             caminho: "Suprimentos > Estoque > Nota fiscal Complementar/Ajuste Entrada",
             urlPattern: "faturamento/complemento_icms.asp?mod=suprimentos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823220"
         },
         {
             caminho: "Suprimentos > Estoque > Agendar alteração de preços",
             urlPattern: "webapp/acesso.asp?appRoute=/agendamento-precos/listagem-agendamento",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=475916122"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Notas de Compra",
             urlPattern: "produtos/relatorio_notas.asp?modulo=estoque",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Notas+de+Compra"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Lista de Preços",
             urlPattern: "produtos/relatorio_lista_precos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823164"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Registro de Inventário OLD",
@@ -1117,22 +1117,22 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Registro de Inventário",
             urlPattern: "produtos/relatorio_inventario_new.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823140"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Resumo de Compras Pendentes",
             urlPattern: "produtos/resumo_compras_balanco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Resumo+de+Compras+Pendentes"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Histórico Movimento",
             urlPattern: "produtos/relatorio_movimento_produto.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822708"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Histórico Movimento ",
             urlPattern: "suprimentos/index.html#/relatorios/historico-movimento",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823106"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Conferência de preços",
@@ -1142,7 +1142,7 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Etiquetas CODEBAR",
             urlPattern: "produtos/etiquetas_por_item.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823097"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Conferência de preços da nota fiscal",
@@ -1152,42 +1152,42 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Produtos Recebidos por Período",
             urlPattern: "produtos/relatorio_prod_comprados.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168823078"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Produtos Cadastrados",
             urlPattern: "produtos/relatorio_produtos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Produtos+Cadastrados"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Saldo em estoque por Grade",
             urlPattern: "produtos/relatorio_prod_estoque.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Saldo+em+Estoque+por+Grade"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Saldo em estoque",
             urlPattern: "produtos/relatorio_saldos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Saldo+em+Estoque"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Manutenção",
             urlPattern: "produtos/relatorio_manut.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822997"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > EDI - Produtos Layout (TXT)",
             urlPattern: "logistica/config_layout.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822989"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > EDI - Produtos (Importação)",
             urlPattern: "logistica/importacao_produtos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822971"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Análise para Compras",
             urlPattern: "produtos/relatorio_analise_compras.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822962"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Demanda de Produtos",
@@ -1197,7 +1197,7 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Histórico de Status de Produtos",
             urlPattern: "produtos/relatorio_historico_status.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Demanda+de+Produtos"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Relatório de Consulta de Lotes",
@@ -1207,7 +1207,7 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Compras/Vendas e Saldo por Empresa",
             urlPattern: "produtos/relatorio_compra_venda_saldo_empresa.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822922"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Saldo de Controles",
@@ -1217,27 +1217,27 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Saldo por Empresa",
             urlPattern: "produtos/relatorio_saldo_por_empresa.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822922"
         },
         {
-            caminho: "Suprimentos > Estoque > Relatórios > Resumo de Saldo Mensal por Grupo ",
+            caminho: "Suprimentos > Estoque > Relatórios > Resumo de Saldo Mensal por Setor",
             urlPattern: "produtos/relatorios/controle_movimentacao_estoque_setor/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822922"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Tempo de Inatividade de Estoque por Empresa ",
             urlPattern: "produtos/relatorios/tempo_de_inatividade_por_empresa/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822866"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Histórico de Controle",
             urlPattern: "produtos/relatorio_historico_serial.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822862"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Reposição de Produtos",
             urlPattern: "produtos/reposicao_produtos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822828"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Precificação de Produtos",
@@ -1247,12 +1247,12 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Detalhamento de Custos",
             urlPattern: "produtos/relatorio_custo_por_nota.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Detalhamento+de+Custos"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Estoque Por Faixa de Preço",
             urlPattern: "produtos/relatorio_estoque_faixa_preco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822806"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Conhecimento de Frete",
@@ -1262,12 +1262,12 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Relatório Custo de Entrada",
             urlPattern: "produtos/relatorio_custo_empresa_produtos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822784"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Divergências de Saldo de Controle",
             urlPattern: "produtos/relatorio_divergencias_saldo.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822796"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Atribuir NOVA Origem de Controle",
@@ -1277,67 +1277,67 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Relatórios > Recebimento de Mercadorias",
             urlPattern: "produtos/recebimento_mercadorias/relatorio/index.html?limparCache=1",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822779"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Giro Médio e Cobertura - Dashboard ",
             urlPattern: "compras/relatorios/giro_medio_cobertura_dashboard/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=336227070"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Compras por Fornecedor",
             urlPattern: "produtos/relatorios/compras_agrupamento_fornecedor/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822763"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Controle de Giro de Estoque por Segmentação",
             urlPattern: "produtos/relatorios/giro_estoque_por_grupo/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822757"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Saldo de Produtos por Referência",
             urlPattern: "webapp/acesso.asp?appRoute=relatorios/saldo-produto-por-referencia",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=372248924"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Ajuste de Preço",
             urlPattern: "webapp/acesso.asp?appRoute=relatorios/ajuste-precos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=478722656"
         },
         {
             caminho: "Suprimentos > Compras > Cadastros Auxiliares > Sugestão de Compra",
             urlPattern: "compras/cad_auxiliares/sugestao_compra_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822667"
         },
         {
             caminho: "Suprimentos > Compras > Cadastros Auxiliares > Formulários",
             urlPattern: "compras/cad_auxiliares/formularios_compras.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822658"
         },
         {
             caminho: "Suprimentos > Compras > Cadastros Auxiliares > Campos Adicionais",
             urlPattern: "compras/cad_auxiliares/cadastro_campos_adicionais.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Campos+Adicionais"
         },
         {
             caminho: "Suprimentos > Compras > Cadastros Auxiliares > Status de pedidos",
             urlPattern: "compras/cad_auxiliares/cadastro_status_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Status+de+Pedidos"
         },
         {
             caminho: "Suprimentos > Compras > Pedido de compra (manual)",
             urlPattern: "compras/cadastra_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822560"
         },
         {
             caminho: "Suprimentos > Compras > Pedido de compra (automático)",
             urlPattern: "compras/relatorio_faltas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822507"
         },
         {
             caminho: "Suprimentos > Compras > Pedido de compra (grade)",
             urlPattern: "compras/pedido_grade_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822486"
         },
         {
             caminho: "Suprimentos > Compras > Acompanhamento de Showroom",
@@ -1347,42 +1347,42 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Compras > Requisições > Nova Requisição",
             urlPattern: "compras/produtos_requisicao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822464"
         },
         {
             caminho: "Suprimentos > Compras > Requisições > Conferência Requisição",
             urlPattern: "compras/requisicao_conferencia.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822445"
         },
         {
             caminho: "Suprimentos > Compras > Requisições > Listagem de Requisições",
             urlPattern: "compras/requisicao_filtro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822437"
         },
         {
             caminho: "Suprimentos > Compras > Requisições > Cancelar/Excluir Requisições",
             urlPattern: "compras/cancela_requisicao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822433"
         },
         {
             caminho: "Suprimentos > Compras > Aprovação de pedido",
             urlPattern: "compras/pedido_aprovacao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822393"
         },
         {
             caminho: "Suprimentos > Compras > Alteração/Cancelamento",
             urlPattern: "compras/altera_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822389"
         },
         {
             caminho: "Suprimentos > Compras > Junção de Pedidos",
             urlPattern: "compras/juncao_pedidos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822384"
         },
         {
             caminho: "Suprimentos > Compras > Cálculos > Calcular Curva ABC",
             urlPattern: "compras/relatorio_abc.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822356"
         },
         {
             caminho: "Suprimentos > Compras > Pré-Pedidos > Negociação",
@@ -1397,17 +1397,17 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Compras > Formulários",
             urlPattern: "compras/formulario.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822349"
         },
         {
             caminho: "Suprimentos > Compras > Relatórios > Pedidos",
             urlPattern: "compras/relatorio_pedidos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822275"
         },
         {
             caminho: "Suprimentos > Compras > Relatórios > Divergências",
             urlPattern: "compras/relatorio_divergencias.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822258"
         },
         {
             caminho: "Suprimentos > Compras > Relatórios > Relatório de Giro Médio",
@@ -1417,62 +1417,62 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Compras > Relatórios > Relatório de Cobertura",
             urlPattern: "compras/relat_curva_abc_cobertura_novo.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822241"
         },
         {
             caminho: "Suprimentos > Compras > Relatórios > Status do Saldo dos Produtos",
             urlPattern: "compras/relatorio_status_produtos.asp?tipo=compras",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Status+do+Saldo+dos+Produtos"
         },
         {
             caminho: "Suprimentos > Compras > Relatórios > Análise de Estoque em Grade para Compra",
             urlPattern: "compras/relat_analise_estoque_compra.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822206"
         },
         {
             caminho: "Conta Digital (Stone Banking) > Iniciar Conta Digital",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=openbanking&appPermissao=open_banking_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=288830985"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Natureza de Operação",
             urlPattern: "faturamento/cad_auxiliares/cadastro_cfop.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822094"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Vendedores/Compradores ",
             urlPattern: "faturamento/cadastro_vendedores/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822072"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Configurar pagamentos",
             urlPattern: "faturamento/configurar_pagamentos/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Configurar+Pagamentos"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Cadastro de Coeficientes",
             urlPattern: "faturamento/cad_auxiliares/cadastro_coeficientes.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cadastro+de+Coeficientes"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Planos de Pagamento",
             urlPattern: "faturamento/cad_auxiliares/cadastro_de_plano.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Planos+de+Pagamento"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Série Própria",
             urlPattern: "faturamento/cad_auxiliares/cadastro_serie.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822013"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Motivo de Devolução",
             urlPattern: "faturamento/cad_auxiliares/cadastro_motivo_devolucao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822007"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Faixas de Desconto",
             urlPattern: "faturamento/cad_auxiliares/cadastro_faixa_desconto.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faixas+de+Desconto"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares >  Contratos (Novo) > Listagem de contratos por tipo",
@@ -1487,17 +1487,17 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Cadastros Auxiliares > Faixas de Preço",
             urlPattern: "faturamento/cad_auxiliares/cadastro_faixa_preco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821997"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Observações Padrões",
             urlPattern: "faturamento/cad_auxiliares/cadastro_observacoes_padroes.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821980"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Tabelas de Comissão",
             urlPattern: "faturamento/cad_auxiliares/tabelas_comissoes.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821967"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Motivo da Não Conversão",
@@ -1507,12 +1507,12 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Cadastros Auxiliares > Motivos de Desconto (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=cadastros/motivos-desconto&appPermissao=motivos_desconto_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Motivos+de+Desconto"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Serviços Ópticos Agregados",
             urlPattern: "faturamento/cad_auxiliares/cadastro_servicos_opticos_agregados.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821950"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Formato de Aro",
@@ -1522,7 +1522,7 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Cadastros Auxiliares > Motivo de Cancelamento de CF",
             urlPattern: "faturamento/cad_auxiliares/motivo_cancelamento_cf.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Motivos+de+Cancelamento+de+CF"
         },
         {
             caminho: "Faturamento > Cadastros Auxiliares > Status do Pedido Óptico",
@@ -1532,7 +1532,7 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Cadastros Auxiliares > Pergunta Final da Venda",
             urlPattern: "faturamento/cad_auxiliares/pergunta_venda/pergunta_venda.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Pergunta+no+Final+da+Venda"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Cadastros Auxiliares > Classes",
@@ -1567,7 +1567,7 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Orçamento/Pedido > Copiar Pedido",
             urlPattern: "faturamento/orcamento/copia_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Copiar+Pedido"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Atualiza Preços",
@@ -1577,67 +1577,67 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Orçamento/Pedido > Transforma em Pedido / Aprova",
             urlPattern: "faturamento/orcamento/transforma_orcamento_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Transforma+em+Pedido+-+Aprova"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Expedição > Expedição de Orçamentos/Pedidos",
             urlPattern: "faturamento/orcamento/aprovacao_pedido_expedicao2.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821746"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Expedição > Relatório de Orçamentos/Pedidos",
             urlPattern: "faturamento/orcamento/relatorio_expedicao2.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821741"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Reserva de Estoque",
             urlPattern: "faturamento/orcamento/reserva_estoque_form.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Reserva+de+Estoque"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Agrupamento de Pedido",
             urlPattern: "faturamento/orcamento/agrupamento_de_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Agrupamento+de+Pedido"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Formulários de Orçamentos/Pedidos",
             urlPattern: "faturamento/orcamento/proposta_venda.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821697"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Cancelamento/Encerramento de Orçamentos/Pedidos",
             urlPattern: "faturamento/orcamento/cancela_orcamento.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821673"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Orçamentos/Pedidos",
             urlPattern: "faturamento/orcamento/relatorio_orc.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821637"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Produtos Vendidos/Orçados",
             urlPattern: "faturamento/orcamento/relatorio_prod_vendidos_orc.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821631"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Produtos à Faturar",
             urlPattern: "faturamento/orcamento/relatorio_prod_orcado.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Produtos+a+Faturar"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Expedição",
             urlPattern: "faturamento/orcamento/relatorio_pedido_expedicao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168821618"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Produtos Expedidos",
             urlPattern: "faturamento/orcamento/produtos_expedidos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Produtos+Expedidos"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Ranking de Pedidos",
             urlPattern: "faturamento/orcamento/ranking_pedidos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Ranking+de+Pedidos"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Relatórios > Pedidos de Venda X Pedidos de Compra",
@@ -1647,32 +1647,32 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Entrega Futura > Venda para Entrega Futura",
             urlPattern: "fiscal/entrega-futura/venda-entrega-futura.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Venda+para+Entrega+Futura"
         },
         {
             caminho: "Faturamento > Entrega Futura > Remessa de Entrega",
             urlPattern: "fiscal/entrega-futura/remessa-entrega/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Remessa+de+Entrega"
         },
         {
             caminho: "Faturamento > Emissão de Nota Fiscal",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?ajusteMenu=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656829"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Emitir Nota Fiscal Saída",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=emitir_nota_fiscal_saida",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656826"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Faturar Pedido",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=faturar_pedido",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturar+Pedido+-+Nota+Fiscal"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Devolução de venda",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=devolucao_venda",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656811"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Devolução de compra",
@@ -1682,42 +1682,42 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Nota Fiscal > Devolução de Compra Fácil (Novo)",
             urlPattern: "suprimentos/estoque/devolucao-entrada/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656805"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Complementar/Ajuste de Saída",
             urlPattern: "faturamento/complemento_icms.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656798"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Substitutiva de Cupom Fiscal SAT ou NFC-e",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=nota_fiscal_substitutiva_cupom_sat_nfce",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Substitutiva+de+Cupom+Fiscal+SAT+ou+NFC-e+-+Nota+Fiscal"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Transferência de ICMS",
             urlPattern: "faturamento/nota_transferencia_icms.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656770"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Reimprimir etiquetas de endereçamento",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=reimprimir_etiquetas_enderecamento",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656761"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Informações do B2B ? NF-e",
             urlPattern: "produtos/b2b_numero_pedido.asp?origem_b2b=nota_fiscal",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656755"
         },
         {
             caminho: "Faturamento > Nota Fiscal > Cancelar/Excluir Nota Fiscal Saída",
             urlPattern: "faturamento/cadastro_nota_fiscal.asp?sub_rotina=cancelar_excluir_nota_fiscal",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656735"
         },
         {
             caminho: "Faturamento > Venda Fácil",
             urlPattern: "faturamento/vendafacil/acesso_webapp.asp",
-            manual: ""
+            manual: "http://share.linx.com.br/pages/viewpage.action?pageId=389653558"
         },
         {
             caminho: "Faturamento > Configurações",
@@ -1727,47 +1727,47 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Venda Consignada > Remessa em Consignação",
             urlPattern: "faturamento/venda_consignada/remessa_em_consignacao/remessa_em_consignacao.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656444"
         },
         {
             caminho: "Faturamento > Venda Consignada > Devolução Física",
             urlPattern: "faturamento/venda_consignada/devolucao_fisica/devolucao_fisica.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656409"
         },
         {
             caminho: "Faturamento > Venda Consignada > Devolução Simbólica",
             urlPattern: "faturamento/venda_consignada/devolucao_simbolica/devolucao_simbolica.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656380"
         },
         {
             caminho: "Faturamento > Venda Consignada > Faturar Mercadorias em Consignação",
             urlPattern: "faturamento/venda_consignada/faturar_mercadorias_consignadas/faturar_mercadorias_consignadas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656330"
         },
         {
             caminho: "Faturamento > Venda Consignada > Relatório de Mercadorias Consignadas",
             urlPattern: "faturamento/venda_consignada/relatorio_mercadorias_consignadas/relatorio_mercadorias_consignadas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656323"
         },
         {
             caminho: "Faturamento > Demonstrações (Painel) ",
             urlPattern: "demonstracao/painel/painel-demonstracao.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656224"
         },
         {
             caminho: "Faturamento > Remessas e Retornos > Remessas e Retornos",
             urlPattern: "fiscal/remessa-retorno/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Remessas+e+Retornos"
         },
         {
             caminho: "Faturamento > Remessas e Retornos > Entradas e Retornos",
             urlPattern: "fiscal/entrada-retorno/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Entradas+e+Retornos"
         },
         {
             caminho: "Faturamento > Baixa de Consumo",
             urlPattern: "produtos/baixa_consumo.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Baixa+de+Consumo"
         },
         {
             caminho: "Faturamento > Romaneio de Carga-Notas Fiscais",
@@ -1777,27 +1777,27 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Cupons de Desconto",
             urlPattern: "faturamento/cadastro_cupom/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cupons+de+Desconto"
         },
         {
             caminho: "Faturamento > Loja > Contingência",
             urlPattern: "vendas/vendas.asp?contingencia=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168656043"
         },
         {
             caminho: "Faturamento > Loja > Painel",
             urlPattern: "vendas/vendas.asp?painel=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Painel+-+Microvix"
         },
         {
             caminho: "Faturamento > Loja > Relatórios > Conferência de Caixas",
             urlPattern: "faturamento/relatorio_conferencia_caixa.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655711"
         },
         {
             caminho: "Faturamento > Loja > Relatórios > Impressão de Fichas",
             urlPattern: "faturamento/relat_imp_etiqueta.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655707"
         },
         {
             caminho: "Faturamento > Loja > Relatórios > Impressão de Lista da Vez",
@@ -1807,7 +1807,7 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Loja > Relatórios > Lista Negra",
             urlPattern: "faturamento/relatorio_lista_negra.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Lista+Negra+-+Loja"
         },
         {
             caminho: "Faturamento > Loja > Relatórios > Lista da Vez",
@@ -1817,7 +1817,7 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Loja > Relatórios > Listagem dos Fechamentos",
             urlPattern: "faturamento/relatorio_fechamento_caixa.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Listagem+dos+Fechamentos+-+Loja"
         },
         {
             caminho: "Faturamento > Loja > Relatórios > Relatório Pergunta no final da Venda",
@@ -1827,77 +1827,77 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Convênios > Fechamento de Convênios",
             urlPattern: "faturamento/convenios/conv_fechamento.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655629"
         },
         {
             caminho: "Faturamento > Convênios > Saldo do Conveniado",
             urlPattern: "faturamento/convenios/saldo_conveniado.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Saldo+do+conveniado"
         },
         {
             caminho: "Faturamento > Comissões > Lançar Comissão Manual",
             urlPattern: "faturamento/comissoes/adicionar_comissao.asp?operacao=I",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655613"
         },
         {
             caminho: "Faturamento > Comissões > Relatório de Comissões",
             urlPattern: "faturamento/comissoes/relat_comissoes.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655595"
         },
         {
             caminho: "Faturamento > Royalties > Lançar Royalty Manual",
             urlPattern: "faturamento/royalties/adicionar_royalty.asp?operacao=I",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655579"
         },
         {
             caminho: "Faturamento > Royalties > Definir Royalty para Pedido",
             urlPattern: "faturamento/royalties/setar_royalty_pedido.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Definir+Royalty+para+Pedido"
         },
         {
             caminho: "Faturamento > Royalties > Calcular Royalty",
             urlPattern: "faturamento/royalties/sproyalties.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Calcular+Royalty"
         },
         {
             caminho: "Faturamento > Royalties > Relatório de Royalties",
             urlPattern: "faturamento/royalties/relat_royalties.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655567"
         },
         {
             caminho: "Faturamento > Suframa > Geração Arquivo Lote de Notas Fiscais - WS Sinal",
             urlPattern: "faturamento/arquivo_ws_sinal.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Suframa"
         },
         {
             caminho: "Faturamento > Troca Fácil > Realizar Troca Fácil",
             urlPattern: "faturamento/vendafacil/acesso_webapp.asp?rota=trocafacilerppos&ignoraConfiguracao=1",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=429436815"
         },
         {
             caminho: "Faturamento > Troca Fácil > Realizar Troca sem token (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=trocafacil/gera-troca-ticket",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Realizar+Troca+sem+Token"
         },
         {
             caminho: "Faturamento > Troca Fácil > Relatório Troca Fácil",
             urlPattern: "faturamento/troca_unificada/relatorio_troca_unificada/relatorio_troca_unificada.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=429437289"
         },
         {
             caminho: "Faturamento > Troca Fácil > Relatório de Vale Troca",
             urlPattern: "faturamento/troca_unificada/relatorio_vale_trocas/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=429437115"
         },
         {
             caminho: "Faturamento > Troca Fácil > Gerar Ticket Manual Troca Fácil",
             urlPattern: "faturamento/garantia_nacional/ticket-manual/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=429437013"
         },
         {
             caminho: "Faturamento > Lançamento de vale avulso em lote",
             urlPattern: "faturamento/vale_avulso_lote/tela_filtro_vale_avulso_lote.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Vale+Compras+Avulso+em+Lote"
         },
         {
             caminho: "Faturamento > Recuperação de Cupom Fiscal > Iniciar Recuperação de Cupom Fiscal",
@@ -1907,147 +1907,147 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Relatórios > Aprovação de Crédito",
             urlPattern: "faturamento/aprovacao_credito_filtros.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655245"
         },
         {
             caminho: "Faturamento > Relatórios > Royalties/Taxa Propaganda",
             urlPattern: "faturamento/royalties/relat_royalty_propaganda.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655238"
         },
         {
             caminho: "Faturamento > Relatórios > Vendas com Promoções",
             urlPattern: "faturamento/vendas_promocoes/relatorio_promocoes.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=342286206"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento Diário",
             urlPattern: "faturamento/relat_fat_diario.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655213"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Indicações",
             urlPattern: "faturamento/listagem_relatorio_medico.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=412258062"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Centro de Custos",
             urlPattern: "faturamento/relatorio_fat_cc.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturamento+por+Centro+de+Custos"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Faixa de Horário",
             urlPattern: "faturamento/relat_fat_horario.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655179"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Faixa de Preço",
             urlPattern: "faturamento/relatorio_fat_faixa_preco.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655171"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Período",
             urlPattern: "faturamento/relat_fat_periodo.asp?modulo=faturamento&filtra_empresa=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168654801"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Planos",
             urlPattern: "faturamento/relat_fat_planos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturamento+por+Planos"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento por Série",
             urlPattern: "faturamento/relat_fat_serie.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655141"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento Vendedor",
             urlPattern: "faturamento/relatorio_fat_vendedor.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturamento+Vendedor"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento Com Agrupamento por Hierarquia de Tempo",
             urlPattern: "faturamento/relatorios/agrupamento_hierarquia_tempo/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Faturamento+com+Agrupamento+por+Hierarquia+de+Tempo"
         },
         {
             caminho: "Faturamento > Relatórios > Itens Transferidos entre Unidades",
             urlPattern: "faturamento/relatorio_prod_vendidos.asp?relatProdVendidos=S",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Itens+Transferidos+entre+Unidades"
         },
         {
             caminho: "Faturamento > Relatórios > Movimento Diário",
             urlPattern: "faturamento/relatorio_diario.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168654847"
         },
         {
             caminho: "Faturamento > Relatórios > NFs de Venda x NFs de Entrega",
             urlPattern: "faturamento/rela_fat_nf_entrega.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/NFs+de+Venda+x+NFs+de+Entrega"
         },
         {
             caminho: "Faturamento > Relatórios > Painel de Vendas",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=relatorioVendas&appPermissao=relatorioVendas_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Painel+de+Vendas+-+Faturamento"
         },
         {
             caminho: "Faturamento > Relatórios > Produtos de Grade Vendidos",
             urlPattern: "faturamento/relatorio_prod_vendidos_grade.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Produtos+de+Grade+Vendidos"
         },
         {
             caminho: "Faturamento > Relatórios > Faturamento Grade com Percentual por Coleção",
             urlPattern: "faturamento/relatorios/faturamento_grade_percentual_por_colecao/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655055"
         },
         {
             caminho: "Faturamento > Relatórios > Produtos Vendidos em Cortesia",
             urlPattern: "faturamento/relatorio_prod_vend_cortesia.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Produtos+Vendidos+em+Cortesia"
         },
         {
             caminho: "Faturamento > Relatórios > Produtos/Serv.Vendidos",
             urlPattern: "faturamento/relatorio_prod_vendidos.asp?ajusteMenu=S",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655027"
         },
         {
             caminho: "Faturamento > Relatórios > Análise de Quantidade Vendida Semanal por Coleção",
             urlPattern: "faturamento/relatorios/analise_quantidade_vendida_semanal_colecao/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168655018"
         },
         {
             caminho: "Faturamento > Relatórios > Performance de Vendedores",
             urlPattern: "faturamento/relatorios/performance_por_vendedor/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Performance+de+Vendedores"
         },
         {
             caminho: "Faturamento > Relatórios > Performance de Lojas",
             urlPattern: "faturamento/relatorios/performance_por_loja/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Vendas+por+Lojas"
         },
         {
             caminho: "Faturamento > Relatórios > Performance por Estrutura Mercadológica",
             urlPattern: "faturamento/relatorios/performance_por_setor/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168654957"
         },
         {
             caminho: "Faturamento > Relatórios > Estoque x Vendas",
             urlPattern: "faturamento/relatorios/performance_loja_faixa_preco_estrutura_mercadologica/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168654945"
         },
         {
             caminho: "Faturamento > Relatórios > Margem de Contribuição por Estrutura Mercadológica",
             urlPattern: "faturamento/relatorios/margem_contribuicao_estrutura_mercadologica/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168654889"
         },
         {
             caminho: "Faturamento > Relatórios > Ranking de Clientes",
             urlPattern: "faturamento/relatorio_ranking.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Ranking+de+Clientes"
         },
         {
             caminho: "Faturamento > Relatórios > Ranking por Produtos",
             urlPattern: "faturamento/relatorio_ranking_produtos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Ranking+por+Produtos"
         },
         {
             caminho: "Faturamento > Relatórios > Relatório de Pacote e Associação de Itens",
@@ -2057,47 +2057,47 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Relatórios > Relatório Fechamento Caixa",
             urlPattern: "faturamento/relatorios/abertura_fechamento_caixa/abertura_fechamento_caixa.html",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=441516238"
         },
         {
             caminho: "Faturamento > Relatórios > Resumo Comercial",
             urlPattern: "faturamento/relatorio_resumo_comercial.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Resumo+Comercial"
         },
         {
-            caminho: "Faturamento > Relatórios > Vendas por Empresa x Grupo",
+            caminho: "Faturamento > Relatórios > Vendas por Empresa x Setor",
             urlPattern: "faturamento/relat_vendas_empresas_setor.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Vendas+por+Empresa+X+Setor"
         },
         {
-            caminho: "Faturamento > Relatórios > Vendas por Empresa x Grupo (Novo)",
+            caminho: "Faturamento > Relatórios > Vendas por Empresa x Setor (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=relatorio-venda-empresa-grupo&appPermissao=relatorio_venda_empresa_grupo_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=331849632"
         },
         {
             caminho: "Faturamento > Relatórios > Vendas por Lojas",
             urlPattern: "faturamento/relatorio_vendas_lojas.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Vendas+por+Lojas"
         },
         {
             caminho: "Faturamento > Relatórios > Relatório de Pré-Vendas",
             urlPattern: "webapp/acesso.asp?appRoute=relatorios/pre-venda",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=383791235"
         },
         {
             caminho: "Faturamento > Relatórios > Vendas Cancelados no POS",
             urlPattern: "faturamento/relatorios/vendas_canceladas_pos/vendas_canceladas_pos.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Vendas+Canceladas+no+POS"
         },
         {
             caminho: "Faturamento > Relatórios > Cupons Cancelados",
             urlPattern: "faturamento/relat_cupons_cancelados.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cupons+Cancelados"
         },
         {
             caminho: "Faturamento > Relatórios > Vendas por Tipo de Cartão",
             urlPattern: "faturamento/relat_venda_tipo_cartao_param.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168654904"
         },
         {
             caminho: "Faturamento > Relatórios > Entrantes por Franquia",
@@ -2107,7 +2107,7 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Relatórios > Performance de Vendas por Lifestyle (Grupo)",
             urlPattern: "faturamento/relatorios/performance_vendas_grupo/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Performance+de+Venda+por+Lifestyle"
         },
         {
             caminho: "Faturamento > Relatórios > Pedidos emitidos via Showrooming",
@@ -2117,12 +2117,12 @@ const urlsConfig = [
         {
             caminho: "Faturamento > Relatórios > Relatório de Vendas/Motivos Desconto (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=relatorios/motivo-desconto&appPermissao=motivos_desconto_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=423688460"
         },
         {
             caminho: "NF-e > Iniciar NF-e",
             urlPattern: "nf_e/nfe.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/NF-e+-+Microvix"
         },
         {
             caminho: "NFC-e > Gerencial MID-e",
@@ -2132,47 +2132,47 @@ const urlsConfig = [
         {
             caminho: "Serviços (Novo) > Agenda",
             urlPattern: "servicos/agenda/index.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Agenda+-+Microvix"
         },
         {
             caminho: "Serviços (Novo) > Agendamento Online (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=configuracaoAgendamentoOnline&appPermissao=agendaonline_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Agendamento+App+Online"
         },
         {
             caminho: "Serviços (Novo) > Expedição de insumos (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=/ExpedicaoInsumosComanda/ListagemExpedicaoInsumoComanda&appPermissao=listagem_expedicao_comanda_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=448637962"
         },
         {
             caminho: "Serviços (Novo) > Importação de Serviços (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=ImportacaoServicos/ListagemImportacaoServicos&appPermissao=importacao_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=426518460"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Serviços (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=CadastroServicos/ListagemServicos&appPermissao=listagem_servicos_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=312348926"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Pacotes (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=CadastroPacotes/ListagemPacotes&appPermissao=listagem_pacotes_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Pacotes+-+Cadastros+Auxiliares"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Equipamentos",
             urlPattern: "webapp/acesso.asp?appRoute=cadastro-equipamento/cadastro-equipamentos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=448637980"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Formulários (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=/CadastroFormularios/ListagemFormularios&appPermissao=formularios_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=316885511"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Associações de itens (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=CadastroAssociacoes/ListagemAssociacoes&appPermissao=associacao_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=330424685"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Espaços (Novo)",
@@ -2182,17 +2182,17 @@ const urlsConfig = [
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > CNAE (Novo)",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=CNAE/Listagem&appPermissao=listagem_cnae_permissao",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=424734468"
         },
         {
             caminho: "Serviços (Novo) > Cadastros Auxiliares > Prontuário Eletrônico",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=modelos-prontuario/cadastro-modelos-prontuario&appPermissao=prontuario_eletronico",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=464770610"
         },
         {
             caminho: "Serviços (Novo) > Relatórios > Saldo de Serviços (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=RelatorioSaldoServicos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=316885102"
         },
         {
             caminho: "Serviços (Novo) > Relatórios > Equipamentos",
@@ -2202,12 +2202,12 @@ const urlsConfig = [
         {
             caminho: "Serviços (Novo) > Relatórios > Agendamentos (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=relatorioAgendamentos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=342286496"
         },
         {
             caminho: "Serviços (Novo) > Relatórios > Logs de Serviços (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=relatorioLog",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=441530635"
         },
         {
             caminho: "Serviços (Novo) > Relatórios > Comissões de Serviços (Novo)",
@@ -2217,22 +2217,22 @@ const urlsConfig = [
         {
             caminho: "Serviços (Novo) > Relatórios > Comissões de Serviços Nota Bipartida (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=/relatorioComissoesParceiro",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=464772733"
         },
         {
             caminho: "Serviços (Novo) > Relatórios > Serviços Vendidos (Novo)",
             urlPattern: "webapp/acesso.asp?appRoute=/relatorioServicosVendidos",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=464778678"
         },
         {
             caminho: "Serviços (Novo) > Relatórios > Prontuário Eletrônico",
             urlPattern: "webapp/acesso_permissao.asp?appRoute=relatorio-prontuarios&appPermissao=prontuario_eletronico",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=464770647"
         },
         {
             caminho: "Serviços > Cadastros Auxiliares > Pacotes",
             urlPattern: "webapp/acesso.asp?appRoute=PacotesPainelListagem",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Pacotes+-+Cadastros+Auxiliares"
         },
         {
             caminho: "Serviços > Gerar Arquivo NF-em São Paulo",
@@ -2242,12 +2242,12 @@ const urlsConfig = [
         {
             caminho: "Report Viewer > Iniciar Report Viewer",
             urlPattern: "abrir_sessao_aspx",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Report+Viewer+-+Microvix"
         },
         {
             caminho: "Aplicativos > Scarf",
             urlPattern: "framework/scarf/sobre.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Linx+Scarf"
         },
         {
             caminho: "Aplicativos > Exportador de dados",
@@ -2277,22 +2277,22 @@ const urlsConfig = [
         {
             caminho: "Relatórios > Acessar",
             urlPattern: "gerador_de_relatorios/fonte_de_dados/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Acessar"
         },
         {
             caminho: "B2C > Cadastros Auxiliares > Atributos de Produto",
             urlPattern: "parametros/atributos_produto/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Cadastro+de+Atributos"
         },
         {
             caminho: "B2C > Cadastros Auxiliares > Flags/Tags/Palavras Chave de Produtos",
             urlPattern: "suprimentos/index.html#/flags",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=406008020"
         },
         {
             caminho: "B2C > Cadastros Auxiliares > Status",
             urlPattern: "b2c/b2c_status_cadastro.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168829014"
         },
         {
             caminho: "B2C > Cadastros Auxiliares > Volumes",
@@ -2302,12 +2302,12 @@ const urlsConfig = [
         {
             caminho: "B2C > Painel Vendas",
             urlPattern: "b2c/painel_vendas/index.html",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Painel+de+Vendas"
         },
         {
             caminho: "B2C > Compras efetuadas",
             urlPattern: "b2c/b2c_start.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/display/SHOPLINXMICRPUB/Compras+Efetuadas"
         },
         {
             caminho: "B2C > Rastreamento de Pedido",
@@ -2337,12 +2337,12 @@ const urlsConfig = [
         {
             caminho: "Suprimentos > Estoque > Cadastros Auxiliares > Ações Promocionais",
             urlPattern: "produtos/cad_auxiliares/acao_promocional_list.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168826041"
         },
         {
             caminho: "Suprimentos > Estoque > Relatórios > Transferência entre Depósitos",
             urlPattern: "produtos/relatorio_transferencia_depositos.asp",
-            manual: ""
+            manual: "https://share.linx.com.br/pages/viewpage.action?pageId=168822841"
         },
         {
             caminho: "Faturamento > Orçamento/Pedido > Alteração de Endereço de Entrega/Observações",
