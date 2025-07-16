@@ -34,7 +34,7 @@ A extensão é construída utilizando as seguintes tecnologias e APIs do Chrome:
       * **`urls.js`:** Um arquivo de configuração JavaScript que contém o mapeamento de todos os caminhos do Microvix ERP, seus padrões de URL correspondentes e, quando aplicável, links para os manuais. 🌐
       * **`popup.js`:** O script responsável pela interação com a interface do usuário do popup, carregando e exibindo os caminhos, gerenciando a cópia para a área de transferência e salvando a frase personalizada.
   * **`chrome.webRequest` API:** Essencial para interceptar e analisar as requisições de rede feitas pelo navegador. 🛰️
-  * **`chrome.tabs` API:** Utilizada para interagir com as abas do navegador (embora de forma mais limitada neste projeto, poderia ser expandida para funcionalidades como abrir URLs diretamente). 탭️
+  * **`chrome.tabs` API:** Utilizada para interagir com as abas do navegador (embora de forma mais limitada neste projeto, poderia ser expandida para funcionalidades como abrir URLs diretamente).
   * **`chrome.clipboardWrite` API:** Permite que a extensão escreva informações na área de transferência do sistema. ✍️
   * **`chrome.storage.local` API:** Utilizada para armazenar dados localmente no navegador do usuário, como a frase personalizada para o manual. 🗄️
 
